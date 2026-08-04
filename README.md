@@ -2,7 +2,7 @@
 
 Hello, GitHub!
 
-I'm Kimberly Uresti, a student at Brigham Young University-Idaho interested in Software Engineering and Full-Stack Development. Welcome to my GitHub profile!
+I'm Kimberly Uresti, a recent software development graduate of Brigham Young University-Idaho interested in Software Engineering and Full-Stack Development. Welcome to my GitHub profile!
 
 ## About Me
 - I'm currently learning more about Full-Stack development by building a project using the MEAN stack.
