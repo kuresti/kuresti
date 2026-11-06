@@ -9,11 +9,12 @@ During my software development internship, I gained experience working with exis
 My primary interests are full-stack and back-end development, particularly using JavaScript, React, C#, and .NET. I'm continuing to strengthen my skills through hands-on projects and technical problem solving.
 
 ## About Me
-- I'm currently learning more about Full-Stack development by building a project using the MEAN stack.
-- My goal is to become a full-stack developer who can design and deliver complete, user-focused web application.
-  I'm working toward mastering Angular, React and Node.js, building a solid portfolio, and gaining real world
-  experience through internships and open-source contributions.
-- Ask me about how I got my first internship with no experience.
+- I'm currently building a Job Application Tracker using JavaScript, React, Node.js, and Express, with a focus on application architecture, database design, and     testing.
+- I enjoy debugging problems and understanding how different parts of an application work together.
+- I'm continuing to strengthen my skills in JavaScript, C#, .NET, and software testing through hands-on projects.
+- I enjoy collaborating with other developers, learning from feedback, and finding practical solutions to technical challenges.
+- My goal is to become a well-rounded full-stack developer who can design, build, and deliver complete, user-focused web applications.
+- Ask me about my experience during my software development internship!
 
 ## Technologies and Tools
 **Programming Languages:** JavaScript, C#, Java, HTML, CSS, SQL
