@@ -26,19 +26,30 @@ My primary interests are full-stack and back-end development, particularly using
 **Development and Deployment Tools:** Git, GitHub, VS Code, Netlify, Apache
 
 **API and Software Testing:** Postman, Jest (academic), Selenium (academic)
-  
+
+## Featured Projects
+
+### PantryPilot
+**Technologies:** C#, ASP.NET Core, Blazor, Entity Framework Core (EF Core), SQLite
+
+A collaborative meal-planning application that allows users to organize recipes, plan meals using interactive calendars, and generate grocery lists.
+
+### My Contributions:
+
+- Established the initial project architecture, organized services and interfaces, and set up the team's GitHub development workflow.
+- Implemented user registration, login, and logout using ASP.NET Core Identity.
+- Developed reusable Blazor components and drag-and-drop meal planning across daily, weekly, and monthly calendar views.
+- Integrated Entity Framework Core for data persistence and debugged an issue affecting ingredient totals when recipes appeared multiple times in a meal plan.
+
+[View Repository](https://github.com/kuresti/PantryPilot)
+    
 ## Let's Connect!
 
 I'm always interested in connecting with other developers and learning about opportunities in software development.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/kimberly-uresti-370882273)
   
-## Featured Projects
 
-### PantryPilot
-**Technologies:** C#, ASP.NET Core, Blazor, Entity Framework Core (EF Core), SQLite
-[View Repository](https://github.com/kuresti/PantryPilot)
-  
   
   
   
