@@ -4,7 +4,7 @@ Hi, I'm Kimberly,
 
 I'm a software developer with a B.S. in Software Development from Brigham Young University-Idaho. I enjoy building applications, solving challenging problems, and learning new technologies.
 
-During my software development internship, I gained experience working with existing codebases, troubleshooting back-end issues, supporting CI/CD workflows, and contributing improvements to production applications.
+During my software development internship, I worked with an existing codebase to troubleshoot back-end issues, help restore CI/CD workflows, and contribute improvements to the production application. This experience strengthened my debuggin skills and taught me how to approach problems in unfamiliar codebases.
 
 My primary interests are full-stack and back-end development, particularly using JavaScript, React, C#, and .NET. I'm continuing to strengthen my skills through hands-on projects and technical problem-solving.
 
@@ -29,18 +29,22 @@ My primary interests are full-stack and back-end development, particularly using
   
 ## Let's Connect!
 
-I'm always intered in connecting with other developers and learning about opportunities in software development.
+I'm always interested in connecting with other developers and learning about opportunities in software development.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/kimberly-uresti-370882273)
   
+## Featured Projects
+
+### PantryPilot
+**Technologies:** C#, ASP.NET Core, Blazor, Entity Framework Core (EF Core), SQLite
+[View Repository](https://github.com/kuresti/PantryPilot)
   
   
   
   
   
   
-  
-</div>
+
 
 <!--
 **kuresti/kuresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
