@@ -1,8 +1,12 @@
 # <Kimberly Uresti>
 
-Hello, GitHub!
+Hi, I'm Kimberly,
 
-I'm Kimberly Uresti, a recent software development graduate of Brigham Young University-Idaho interested in Software Engineering and Full-Stack Development. Welcome to my GitHub profile!
+I'm a software developer with a B.S. in Software Development from Brigham Young University-Idaho. I enjoy building applications, solving challenging problems, and learning new technologies.
+
+During my software development internship, I gained experience working with existing codebases, troubleshooting back-end issues, supporting CI/CD workflows, and contributing improvements to production applications.
+
+My primary interests are full-stack and back-end development, particularly using JavaScript, React, C#, and .NET. I'm continuing to strengthen my skills through hands-on projects and technical problem solving.
 
 ## About Me
 - I'm currently learning more about Full-Stack development by building a project using the MEAN stack.
