@@ -6,7 +6,7 @@ I'm a software developer with a B.S. in Software Development from Brigham Young 
 
 During my software development internship, I gained experience working with existing codebases, troubleshooting back-end issues, supporting CI/CD workflows, and contributing improvements to production applications.
 
-My primary interests are full-stack and back-end development, particularly using JavaScript, React, C#, and .NET. I'm continuing to strengthen my skills through hands-on projects and technical problem solving.
+My primary interests are full-stack and back-end development, particularly using JavaScript, React, C#, and .NET. I'm continuing to strengthen my skills through hands-on projects and technical problem-solving.
 
 ## About Me
 - I'm currently building a Job Application Tracker using JavaScript, React, Node.js, and Express, with a focus on application architecture, database design, and     testing.
@@ -25,10 +25,13 @@ My primary interests are full-stack and back-end development, particularly using
 
 **Development and Deployment Tools:** Git, GitHub, VS Code, Netlify, Apache
 
-**API and Software Testing:** Postman, Jest(academic), Selenium(academic)
+**API and Software Testing:** Postman, Jest (academic), Selenium (academic)
   
-  ## Let's Connect!
-  -Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() linkedin.com/in/kimberly-uresti-370882273
+## Let's Connect!
+
+I'm always intered in connecting with other developers and learning about opportunities in software development.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/kimberly-uresti-370882273)
   
   
   
